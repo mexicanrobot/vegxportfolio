@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+html {
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth; 
+  overscroll-behavior-y: none;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  padding: 16px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+header a {
+  padding-right: 20px;
+}
+
+.home {
+  padding-right: 480px;
+}
+
+.cover {
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  scroll-snap-align: start;
+  z-index: -1;
+}
+
+.cover video {
+  position: absolute;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.title {
+  scroll-snap-align: start;
+  display: flex;
+  justify-content: center;
+
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.projects {
+  display: grid;
+  grid-template-columns: 300px 300px 300px 300px;
+  grid-template-rows: 300px 300px 300px 300px;
+  justify-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.project {
+  width: 300px;
+  height: 300px;
+
+  position: relative;
+
+  overflow: hidden;
+}
+
+.overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  background-color: rgba(0,0,0,0.6);
+
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+
+  opacity: 1;
+
+  transition: opacity 0.25s ease;
+  -webkit-transition: opacity 0.25s ease;
+
+  z-index: 1;
+}
+
+.overlay-title, .overlay-desc {
+  color: white;
+  align-self: center;
+}
+
+.hover .overlay {
+  opacity: 0;
+}
+
+.project img {
+  width: 300px;
+  height: 300px;
+
+  object-fit: cover;
+  object-position: 50% 50%;
+
+  transform: none;
+
+  transition: transform 0.25s ease;
+  -webkit-transition: transform 0.25s ease;
+}
+
+.hover img {
+  transform: scale(1.1);
+}
