@@ -1,0 +1,128 @@
+[
+    {
+        "title": "Sustainable Island",
+        "description": "A low poly island created for Mexican government dependency, CONAFOR, to visually explain various forestry sustainable activities, this was used on social media such as Twitter and Facebook to inform about these activities.",
+        "software": ["maya","arnold"]
+    },
+    {
+        "title": "Mayan Voxel Island",
+        "description": "This was my very first time using Magica Voxel. I created this very simple island to test out the power of this software. The geometry was optimized with VoxelShop",
+        "software": ["magicavoxel","unity"]
+    },
+    {
+        "title": "2018 Motion Graphics Demo Reel",
+        "description": "Demo Reel that showcases all the 2D animation projects I worked on since 2017.",
+        "video": "https://vimeo.com/256983165",
+        "software": ["aftereffects","illustrator","photoshop"]
+    },
+    {
+        "title": "Quantstudio 1 Digital Smart Star 3D Web Training",
+        "description": "Digital Smart Star (DSS) was a new experience created for Thermofisher to show our customers a new way of understanding purchased equipment. This was the second iteration for this series of products, it changed and develop in a more mature version from the original demo release created for the Evos Microscope. We created from scratch a training system (Unity state machine) that was able to create a sequence of steps. It was a client requirement that users could switch between steps, so our state machine was build in order to properly store all the steps within a module. This state machine was used and updated within all iterations for the DSS series.",
+        "team": {
+            "Unity Developers":  ["Sergio Nuñez" , "Jose Vazquez", "Isaac Sosa"],
+            "3D Developers": ["Estefania de la Vega", "Javier Nanga"],
+            "UI/UX Designer": ["Paulina Beltran"],
+            "Front End Developer": ["Alejandro Garcia"],
+            "Product Owner": ["Estefania de la Vega"],
+            "Manager": ["Adan Jaquez"]
+        },
+        "software": ["maya", "substancepainter", "unity", "photoshop", "illustrator"]
+    }
+
+Qubit Flex Digital Smart Star 3D Web Training
+
+Digital Smart Star (DSS) was a new experience created for Thermofisher to show our customers a new way of understanding purchased equipment.
+
+This 3D web experience’s purpose is to train Thermofisher customers in how to use, install and run and experiment with the Qubit Flex without the help of any technician on the site. Thus saving money for the company and adding an interactive and innovative experience to customers. 
+
+Developer Team:
+Unity Developers:  Sergio Nuñez , Jose Vazquez and Isaac Sosa
+3D Developers: Estefania de la Vega and Javier Nanga
+UI/UX Designer: Paulina Beltran
+Front End Developer: Alejandro Garcia
+Product Owner: Estefania de la Vega
+Manager: Adan Jaquez
+
+Software used: Maya, Substance Painter, Unity, Adobe Photoshop, Adobe Illustrator 
+
+Quantstudio 3 and 5  Digital Smart Star 3D Web Training 
+
+After creating multiple iterations of the DSS and from user feedback we innovate a new way to show our customer a more interactive and user-friendly way to train. From testing and making field research we came with a new solution to completely re-design the DSS series.
+
+Developer Team:
+Unity Developers:  Sergio Nuñez , Jose Vazquez and Isaac Sosa
+3D Developers: Estefania de la Vega and Javier Nanga
+UI/UX Designer: Paulina Beltran
+Front End Developer: Alejandro Garcia
+Product Owner: Estefania de la Vega
+Manager: Adan Jaquez
+
+Software used: Maya, Substance Painter, Unity, Adobe Photoshop, Adobe Illustrator 
+
+Swapportunity zap your competition!
+
+This VR game was developed to solve a common problem within the Sales business: Training.
+Inside the game, a sales representative will learn while playing in a virtual world, created from real lab photo references.
+Three labs were developed for training: Molecular Biology, Cell Biology, and Protein Biology. The goal is for the user to look around the lab and find equipment and then swap it out with the Thermofisher equivalent.
+This game was showcased in February at the annual Sales conference from Fisher Sci hosted in Florida. It was a total success at the expo! We had multiple people at the time playing the game, and got very positive feedback from it, even from the competition, who also played our game.
+
+Software used: Maya, Substance Painter, Unity, Adobe Photoshop, Adobe Illustrator 
+
+Continuous Manufacturing Project
+
+A prototype project for Thermo Fisher Scientific’s Pharma Services Group.
+Based on photographic and photogrammetry data provided, an optimized reproduction of a real pharmaceutical manufacturing facility was created, this is to be used on mixed reality platforms for a further population with instruments that could have a training intent inside the Hololens.
+
+The goal of this prototype was to showcase customers the facility without them actually visiting the real-life site, this was done due to COVID 19 pandemic safe distance restrictions. 
+
+Software used: Autodesk Maya, Substance Painter, Substance Designer
+
+Rock-D Sci-Fi Crossbow
+
+Concept Art by Rock D https://www.artstation.com/rockd
+ 
+I model this back when I was a student as homework but never texture the mesh. I did this small project to polish my substance texturing skills.
+ 
+Software used: Autodesk Maya, Substance Painter
+ 
+Fisherman’s Hut
+
+Concept Art by Stephan Lorenz
+https://www.stephan-illustration.com/
+
+I created this project to test out Unity's HDRP and my Real-Time Render Skills
+At first, the water was going to be Unity Shader, I build one with the Shader Graph but in the end, I did not like the result. Thus I switch to a more simple and cartoon material.
+On the marmoset toolbag viewer, I made the water more transparent so the rock could be more visible.
+
+Software used: Maya, Substance Painter, Substance Designer, Substance Share, Unity, Adobe Photoshop, Marmoset Tool Bag, and Zbrush
+
+Bakery Shop
+
+I created this project using a stylized workflow.
+Was really fun giving detail to some parts such as the bricks, logs wood, and so on Zbrush.
+Some materials were done from scratch by me using a designer and painter.
+Again I used HDRender Pipeline from unity for this model to keep improving my Real-Time Rendering skills.
+
+Software used: Maya, Substance Painter, Substance Designer, Substance Share, Unity, Adobe Photoshop, Marmoset Tool Bag, and Zbrush
+
+
+
+
+
+
+はは、ちょと待って、あとじゅ分お願いい！！！
+でも、はは！ あたしはパーティーに一時間いますね。ふこへいだ。
+
+
+友たち：だれですか？
+娘：おかあさんだ。いかあっている。
+友だし: あらあら、だいよぶ、お母さんは無視しましょう。ベルを飲みましょう。
+娘：あなたがただしだ。じゃあ、一緒に楽ましょう！
+
+
+娘：はは！、おちついてください。行かないでください。行きますね！、行くます！aah! もう さけばないで。今はパーティをでます！
+
+娘：母、友達の家に持って帰りますか？
+友たち： おやすみなさい、いいえ、しんぱいしないでください。Ah! ありがとうございます。私のうちはちかくです。
+娘：　ah! もうわかた すぎの会はユーバーに行く！
+

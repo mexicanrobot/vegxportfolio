@@ -23,6 +23,7 @@ header {
 
 header a {
   padding-right: 20px;
+  text-decoration: none;
 }
 
 .home {
@@ -85,7 +86,7 @@ header a {
   justify-content: center;
   align-items: center;
 
-  opacity: 1;
+  opacity: 0;
 
   transition: opacity 0.25s ease;
   -webkit-transition: opacity 0.25s ease;
@@ -99,7 +100,11 @@ header a {
 }
 
 .hover .overlay {
-  opacity: 0;
+  opacity: 1;
+}
+
+.project:hover {
+  cursor: pointer;
 }
 
 .project img {
