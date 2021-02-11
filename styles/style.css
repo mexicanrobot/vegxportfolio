@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('../fonts/icomoon.ttf?4brevy') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -9,10 +17,11 @@ body {
 
 html {
   /* scroll-snap-type: y mandatory; */
-  scroll-behavior: smooth; 
+  scroll-behavior: smooth;
   overscroll-behavior-y: none;
 
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  font-family: Montserrat, sans-serif;
 }
 
 header {
@@ -24,17 +33,20 @@ header {
   width: 100%;
   justify-content: center;
 
-  background-color: rgba(255,255,255,0.8);
+  background-color: rgb(107, 107, 179);
   border-bottom: 1px grey;
 }
 
 header a {
   padding-right: 20px;
   text-decoration: none;
+
+  color: white;
 }
 
 .home {
   flex: 1;
+  font-weight: bold;
 }
 
 .headroom {
@@ -67,7 +79,7 @@ header a {
   display: flex;
   justify-content: center;
 
-  padding-top: 100px;
+  padding-top: 50px;
   padding-bottom: 50px;
 }
 
@@ -196,7 +208,7 @@ header a {
 
 #modal-overlay {
   background-color: rgba(0,0,0,0);
-  transition: all 1s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
 
 #modal-overlay.show {
@@ -205,5 +217,53 @@ header a {
   width: 100vw;
   height: 100vh;
   background-color: rgba(0,0,0,0.7);
-  transition: all 1s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
+.contact-me {
+  font-family: 'icomoon';
+  font-size: 48px;
+  list-style: none;
+
+  display: flex;
+  width: 100%;
+  align-self: center;
+  justify-content: center;
+
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+  margin-bottom: 50px;
+  background-color: rgb(107, 107, 179);
+}
+
+.contact-me a {
+  text-decoration: none;
+  display: inline-flex;
+  padding: 12px;
+  color: #555;
+  transition: color 0.5s ease-in-out;
+}
+
+.contact-me a:hover {
+  color: #fff;
+}
+
+.icon-linkedin:before {
+  content: "\e902";
+}
+
+.icon-behance:before {
+  content: "\e901";
+}
+
+.icon-artstation:before {
+  content: "\e900";
+}
+
+#footer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding: 12px 0px 12px 12px;
 }

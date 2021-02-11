@@ -2,18 +2,18 @@
     {
         "title": "Sustainable Island",
         "description": "A low poly island created for Mexican government dependency, CONAFOR, to visually explain various forestry sustainable activities, this was used on social media such as Twitter and Facebook to inform about these activities.",
-        "software": ["maya","arnold"]
+        "software": ["Maya","Arnold"]
     },
     {
         "title": "Mayan Voxel Island",
         "description": "This was my very first time using Magica Voxel. I created this very simple island to test out the power of this software. The geometry was optimized with VoxelShop",
-        "software": ["magicavoxel","unity"]
+        "software": ["Magica Voxel","Unity"]
     },
     {
         "title": "2018 Motion Graphics Demo Reel",
         "description": "Demo Reel that showcases all the 2D animation projects I worked on since 2017.",
         "video": "https://vimeo.com/256983165",
-        "software": ["aftereffects","illustrator","photoshop"]
+        "software": ["After Effects","Illustrator","Photoshop"]
     },
     {
         "title": "Quantstudio 1 Digital Smart Start 3D Web Training",
@@ -26,7 +26,7 @@
             "Product Owner": ["Estefania de la Vega"],
             "Manager": ["Adan Jaquez"]
         },
-        "software": ["maya", "substancepainter", "unity", "photoshop", "illustrator"]
+        "software": ["Maya", "Substance Painter", "Unity", "Photoshop", "Illustrator"]
     },
     {
         "title": "Qubit Flex Digital Smart Start 3D Web Training",
@@ -39,7 +39,7 @@
             "Product Owner": ["Estefania de la Vega"],
             "Manager": ["Adan Jaquez"]
         },
-        "software": ["maya", "substancepainter", "unity", "photoshop", "illustrator"]       
+        "software": ["Maya", "Substance Painter", "Unity", "Photoshop", "Illustrator"]       
     },
     {
         "title": "Quantstudio 3 and 5 Digital Smart Start 3D Web Training",
@@ -52,33 +52,33 @@
             "Product Owner": ["Estefania de la Vega"],
             "Manager": ["Adan Jaquez"]
         },
-        "software": ["maya", "substancepainter", "unity", "photoshop", "illustrator"]       
+        "software": ["Maya", "Substance Painter", "Unity", "Photoshop", "Illustrator"]       
     },
     {
         "title": "Swapportunity zap your competition!",
         "description": "Inside the game, a sales representative will learn while playing in a virtual world, created from real lab photo references. Three labs were developed for training: Molecular Biology, Cell Biology, and Protein Biology. The goal is for the user to look around the lab and find equipment and then swap it out with the Thermofisher equivalent. This game was showcased in February at the annual Sales conference from Fisher Sci hosted in Florida. It was a total success at the expo! We had multiple people at the time playing the game, and got very positive feedback from it, even from the competition, who also played our game.",
-        "software": ["maya","substancepainter","unity","photoshop","illustrator"]
+        "software": ["Maya","Substance Painter","Unity","Photoshop","Illustrator"]
     },
     {
         "title": "Continuous Manufacturing Project",
         "description": "A prototype project for Thermo Fisher Scientific’s Pharma Services Group. Based on photographic and photogrammetry data provided, an optimized reproduction of a real pharmaceutical manufacturing facility was created, this is to be used on mixed reality platforms for a further population with instruments that could have a training intent inside the Hololens. The goal of this prototype was to showcase customers the facility without them actually visiting the real-life site, this was done due to COVID 19 pandemic safe distance restrictions.",
-        "software": ["maya", "substancepainter", "substancedesigner"]
+        "software": ["Maya", "Substance Painter", "Substance Designer"]
     },
     {
         "title": "Rock-D Sci-Fi Crossbow",
         "?": "Concept Art by Rock D https://www.artstation.com/rockd",
         "description": "I model this back when I was a student as homework but never textured the mesh. I did this small project to polish my substance texturing skills.",
-        "software": ["maya", "substancepainter"]
+        "software": ["Maya", "Substance Painter"]
     },
     {
         "title": "Fisherman's Hut",
         "?": "Concept Art by Stephan Lorenz https://www.stephan-illustration.com/",
         "description": "I created this project to test out Unity's HDRP and my Real-Time Render Skills. At first, the water was going to be Unity Shader, I build one with the Shader Graph but in the end, I did not like the result. Thus I switch to a more simple and cartoon material. On the marmoset toolbag viewer, I made the water more transparent so the rock could be more visible.",
-        "software": ["maya", "substancepainter", "substancedesigner", "substanceshare", "unity", "photoshop", "marmosettoolbag", "zbrush"]
+        "software": ["Maya", "Substance Painter", "Substance Designer", "Substance Share", "Unity", "Photoshop", "Marmoset Toolbag", "Zbrush"]
     },
     {
         "title": "Bakery Shop",
         "description": "I created this project using a stylized workflow. Was really fun giving detail to some parts such as the bricks, logs wood, and so on Zbrush. Some materials were done from scratch by me using a designer and painter. Again I used HDRender Pipeline from unity for this model to keep improving my Real-Time Rendering skills.",
-        "software": ["maya", "substancepainter", "substancedesigner", "substanceshare", "unity", "photoshop", "marmosettoolbag", "zbrush"]
+        "software": ["Maya", "Substance Painter", "Substance Designer", "Substance Share", "Unity", "Photoshop", "Marmoset Toolbag", "Zbrush"]
     }
 ]

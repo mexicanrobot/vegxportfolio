@@ -39,14 +39,12 @@
       document.querySelector('#modal .modal-description').innerText = project.description;
 
       if(project.team) {
+        document.querySelector('.team-title').style.display = "block";
         for(let role in project.team) {
           let members = "";
           for(let member of project.team[role]) {
-            if(project.team[role].indexOf(member) !== project.team[role].length -1) {
-              members += `${member}, `;
-            } else {
               members += `${member}`;
-            }
+              if(project.team[role].indexOf(member) !== project.team[role].length -1) members += ", ";
           }
           let membersElement = document.createElement('p');
           membersElement.innerText = `<b>${role}</b>: ${members}`;
@@ -54,8 +52,17 @@
           document.querySelector('#modal .modal-team').appendChild(membersElement);
         }
       } else {
+        document.querySelector('.team-title').style.display = "none";
         document.querySelector('#modal .modal-team').innerHTML = "";
       }
+
+      document.querySelector('#modal .software').innerHTML = "";
+      let softwareElement = document.createElement('ul');
+      for(let software of project.software) {
+        softwareElement.innerText += `<li>${software}</li>`;
+      }
+      softwareElement.innerHTML = softwareElement.innerText;
+      document.querySelector('#modal .software').appendChild(softwareElement);
     }
 
     document.getElementById('modal-overlay').onclick = () => {
@@ -63,7 +70,7 @@
       document.getElementById('modal-overlay').classList.remove('show');
     };
 
-    fetch('projects.json').then(response => response.json()).then(data => addProjects(data));
+    fetch('data/projects.json').then(response => response.json()).then(data => addProjects(data));
 
     var headroom  = new Headroom(document.querySelector('#header'));
     headroom.init();
