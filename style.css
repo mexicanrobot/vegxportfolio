@@ -1,10 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   scroll-behavior: smooth;
 }
 
 html {
-  scroll-snap-type: y mandatory;
+  /* scroll-snap-type: y mandatory; */
   scroll-behavior: smooth; 
   overscroll-behavior-y: none;
 
@@ -19,6 +23,9 @@ header {
   display: flex;
   width: 100%;
   justify-content: center;
+
+  background-color: rgba(255,255,255,0.8);
+  border-bottom: 1px grey;
 }
 
 header a {
@@ -27,7 +34,18 @@ header a {
 }
 
 .home {
-  padding-right: 480px;
+  flex: 1;
+}
+
+.headroom {
+  will-change: transform;
+  transition: transform 200ms linear;
+}
+.headroom--pinned {
+  transform: translateY(0%);
+}
+.headroom--unpinned {
+  transform: translateY(-100%);
 }
 
 .cover {
@@ -55,8 +73,8 @@ header a {
 
 .projects {
   display: grid;
-  grid-template-columns: 300px 300px 300px 300px;
-  grid-template-rows: 300px 300px 300px 300px;
+  grid-template-columns: repeat(auto-fill,300px);
+  grid-template-rows: repeat(auto-fill,300px);
   justify-items: center;
   justify-content: center;
   gap: 15px;
@@ -77,6 +95,7 @@ header a {
   position: absolute;
   top: 0;
   left: 0;
+  padding: 8px;
 
   background-color: rgba(0,0,0,0.6);
 
@@ -94,9 +113,10 @@ header a {
   z-index: 1;
 }
 
-.overlay-title, .overlay-desc {
+.overlay-title {
   color: white;
   align-self: center;
+  text-align: center;
 }
 
 .hover .overlay {
@@ -122,4 +142,68 @@ header a {
 
 .hover img {
   transform: scale(1.1);
+}
+
+.about {
+  background-color: rgb(107, 107, 179);
+  padding: 20px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.headshot {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  padding-left: 50px;
+}
+
+.info h3 {
+  font-size: 24px; 
+}
+
+.info p {
+  max-width: 450px;
+}
+
+#modal {
+  position: fixed;
+  top: 9999px;
+  left: 50%;
+  transition: all 1s ease-in-out;
+  z-index: 500;
+  background-color: white;
+}
+
+#modal.show {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+
+  padding: 8px;
+}
+
+#modal .modal-title {
+  text-align: center;
+}
+
+#modal-overlay {
+  background-color: rgba(0,0,0,0);
+  transition: all 1s ease-in-out;
+}
+
+#modal-overlay.show {
+  position: fixed;
+  z-index: 400;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.7);
+  transition: all 1s ease-in-out;
 }
