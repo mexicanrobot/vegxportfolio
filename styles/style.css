@@ -192,6 +192,10 @@ header a {
   transition: all 1s ease-in-out;
   z-index: 500;
   background-color: white;
+  max-height: 95vh;
+  overflow-y: scroll;
+  border: 1px solid #d3d3d3;
+  border-radius: 3px;
 }
 
 #modal.show {
@@ -241,12 +245,12 @@ header a {
   text-decoration: none;
   display: inline-flex;
   padding: 12px;
-  color: #555;
+  color: #eee;
   transition: color 0.5s ease-in-out;
 }
 
 .contact-me a:hover {
-  color: #fff;
+  color: #333;
 }
 
 .icon-linkedin:before {
@@ -266,4 +270,13 @@ header a {
   width: 100%;
   justify-content: center;
   padding: 12px 0px 12px 12px;
+}
+
+.cover-wrapper {
+  text-align: center;
+}
+
+.modal-cover {
+  max-height: 250px;
+  object-fit: cover;
 }

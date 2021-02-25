@@ -14,7 +14,7 @@
         title.classList.add('overlay-title');
         title.innerText = project.title;
 
-        image.setAttribute('src','images/voxel.png');
+        image.setAttribute('src',project.cover);
         image.setAttribute('alt',project.title);
 
         overlay.appendChild(title);
@@ -35,6 +35,7 @@
 
       modal.classList.add('show');
       document.getElementById('modal-overlay').classList.add('show');
+      document.querySelector('#modal .modal-cover').setAttribute('src',project.cover);
       document.querySelector('#modal .modal-title').innerText = project.title;
       document.querySelector('#modal .modal-description').innerText = project.description;
 
@@ -68,6 +69,7 @@
     document.getElementById('modal-overlay').onclick = () => {
       document.getElementById('modal').classList.remove('show');
       document.getElementById('modal-overlay').classList.remove('show');
+      document.querySelector('#modal .modal-team').innerHTML = "";
     };
 
     fetch('data/projects.json').then(response => response.json()).then(data => addProjects(data));
