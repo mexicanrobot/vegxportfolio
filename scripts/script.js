@@ -35,9 +35,31 @@
 
       modal.classList.add('show');
       document.getElementById('modal-overlay').classList.add('show');
-      document.querySelector('#modal .modal-cover').setAttribute('src',project.cover);
       document.querySelector('#modal .modal-title').innerText = project.title;
       document.querySelector('#modal .modal-description').innerText = project.description;
+
+      for(let media of project.media) {
+        let mediaType = media.split("/")[0];
+        let mediaElement;
+        if(mediaType === 'images') {
+          mediaElement = `<img src="${media}"/>`;
+        } else if(mediaType === 'videos') {
+          mediaElement = `<video src="${media}" autoplay muted></video>`
+        }
+        document.querySelector('#modal .cover-wrapper').innerHTML += `<a data-fslightbox="first-lightbox" href="${media}" onclick="fsLightbox.open()">${mediaElement}</a>`;
+      }
+
+      refreshFsLightbox();
+
+      if(project.link) {
+        document.querySelector('.modal-link').style.display = "block";
+        document.querySelector('.modal-link-title').style.display = "block";
+        document.querySelector('.modal-link').innerHTML = `<a href=${project.link} target="_blank" rel="noreferrer">${project.title}</a>`;
+      } else {
+        document.querySelector('.modal-link').style.display = "none";
+        document.querySelector('.modal-link-title').style.display = "none";
+        document.querySelector('.modal-link').innerHTML = "";
+      }
 
       if(project.team) {
         document.querySelector('.team-title').style.display = "block";
@@ -70,12 +92,12 @@
       document.getElementById('modal').classList.remove('show');
       document.getElementById('modal-overlay').classList.remove('show');
       document.querySelector('#modal .modal-team').innerHTML = "";
+      document.querySelector('#modal .cover-wrapper').innerHTML = "";
     };
 
     fetch('data/projects.json').then(response => response.json()).then(data => addProjects(data));
 
-    var headroom  = new Headroom(document.querySelector('#header'));
+    let headroom  = new Headroom(document.querySelector('#header'));
     headroom.init();
-    console.log(headroom);
   }
 )();
