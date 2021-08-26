@@ -318,3 +318,7 @@ header a {
 .modal-link-title, .modal-link {
   display: none;
 }
+
+.sketchfab-embed-wrapper {
+  text-align: center;
+}
