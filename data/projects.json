@@ -114,8 +114,8 @@
     },
     {
         "title": "Line 2 Washer HoloLens 2 Training",
-        "description": "Line 2 Washer Hololens 2 Training",
-        "software": ["Maya", "Substance Painter"],
+        "description": "From photo and manual reference, this digital twin of a Bosch Washer machine was modeled to be implemented in HoloLens2.Its purpose is to train operators in the proper installation of the Washer parts to be then applied to the real one.This project was done for Thermofisher Scientific Pharmaceutical division and in partnership with Altoura Modeling and Texturing were done with my co-worker Alejandro Nanga",
+        "software": ["Maya", "Substance Painter", "Unity" , "Adobe Photoshop"],
         "cover": "images/washer/washer1.jpg",
         "media": ["images/washer/washer1.jpg","images/washer/washer2.jpg","images/washer/washer3.jpg","images/washer/washer4.jpg","images/washer/washer5.jpg"],
         "embed": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Bosch Washer\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"fullscreen; autoplay; vr\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/ba26ad01db4c41979bb01d2d9ad55076/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/bosch-washer-ba26ad01db4c41979bb01d2d9ad55076?utm_medium=embed&utm_campaign=share-popup&utm_content=ba26ad01db4c41979bb01d2d9ad55076\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> Bosch Washer </a> by <a href=\"https://sketchfab.com/delavegx?utm_medium=embed&utm_campaign=share-popup&utm_content=ba26ad01db4c41979bb01d2d9ad55076\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> delavegx </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=ba26ad01db4c41979bb01d2d9ad55076\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
