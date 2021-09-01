@@ -119,7 +119,8 @@
         "software": ["Maya", "Substance Painter", "Substance Designer", "Substance Share", "Unity", "Photoshop", "Marmoset Toolbag", "Zbrush"],
         "cover": "images/bakery/bakery.jpg",
         "link": "https://www.artstation.com/artwork/9mRwwR",
-        "media": ["images/bakery/bakery.jpg","images/bakery/bakery2.jpg","images/bakery/bakery3.jpg","images/bakery/bakery4.jpg","images/bakery/bakery5.jpg"]
+        "media": ["images/bakery/bakery.jpg","images/bakery/bakery2.jpg","images/bakery/bakery3.jpg","images/bakery/bakery4.jpg","images/bakery/bakery5.jpg"],
+        "embed": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Bakery Shop\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"fullscreen; autoplay; vr\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/13b15bddf324401690b5aa5a7bba6576/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/bakery-shop-13b15bddf324401690b5aa5a7bba6576?utm_medium=embed&utm_campaign=share-popup&utm_content=13b15bddf324401690b5aa5a7bba6576\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> Bakery Shop </a> by <a href=\"https://sketchfab.com/delavegx?utm_medium=embed&utm_campaign=share-popup&utm_content=13b15bddf324401690b5aa5a7bba6576\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> delavegx </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=13b15bddf324401690b5aa5a7bba6576\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
         "title": "Line 2 Washer HoloLens 2 Training",
