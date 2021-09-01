@@ -19,14 +19,13 @@
         "embed": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"VOXEL ISLAND\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"fullscreen; autoplay; vr\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/b58603bbc607414aa71234d9a89c7b53/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/voxel-island-b58603bbc607414aa71234d9a89c7b53?utm_medium=embed&utm_campaign=share-popup&utm_content=b58603bbc607414aa71234d9a89c7b53\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> VOXEL ISLAND </a> by <a href=\"https://sketchfab.com/delavegx?utm_medium=embed&utm_campaign=share-popup&utm_content=b58603bbc607414aa71234d9a89c7b53\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> delavegx </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=b58603bbc607414aa71234d9a89c7b53\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
       
     },
-
     {
         "title": "Milagritos VR/AR Game",
         "description": "Videogame app developed for PepsiCo in collaboration with Mexican Football Selection. The app had a shooting ball mini game. And augmented or virtual reality interactions with all the selection players. I worked as a 3D animator, implementing animations in the engine, cleaning mo-cap footage and optimization of the game ",
         "software": ["Maya","Unity" ,"Mixamo", "MotionBuilder"],
         "cover": "images/milagritos/coverM.jpeg",
         "link": "https://www.youtube.com/watch?v=mfPaCxQM9JQ",
-        "media": ["images/milagritos/screen-0.jpeg", "images/milagritos/screen-1.jpeg", "images/milagritos/screen-2.jpeg", "images/milagritos/screen-3.jpeg", "images/milagritos/screen-4.jpeg", "images/milagritos/screen-5.jpeg", "images/milagritos/gameplay.mp4"]
+        "media": ["images/milagritos/screen-0.jpeg", "images/milagritos/screen-1.jpeg", "images/milagritos/screen-2.jpeg", "images/milagritos/screen-3.jpeg", "images/milagritos/screen-4.jpeg", "images/milagritos/screen-5.jpeg", "videos/gameplay.mp4"]
     },
     {
         "title": "2018 Motion Graphics Demo Reel",
@@ -99,6 +98,7 @@
         "software": ["Maya", "Substance Painter", "Substance Designer"],
         "cover": "images/psg/psg1.jpg",
         "link": "https://www.artstation.com/artwork/oA0d0z",
+        "embed": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Continuous Manufacturing Project\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"fullscreen; autoplay; vr\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/52827904564f4ee7927b38a58f29e479/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/continuous-manufacturing-project-52827904564f4ee7927b38a58f29e479?utm_medium=embed&utm_campaign=share-popup&utm_content=52827904564f4ee7927b38a58f29e479\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> Continuous Manufacturing Project </a> by <a href=\"https://sketchfab.com/nanga?utm_medium=embed&utm_campaign=share-popup&utm_content=52827904564f4ee7927b38a58f29e479\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> Alejandro Nanga </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=52827904564f4ee7927b38a58f29e479\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>",
         "media": ["images/psg/psg1.jpg","images/psg/psg2.jpg","images/psg/psg3.jpg","images/psg/psg4.jpg","images/psg/psg5.jpg"]
     },
     {
@@ -116,6 +116,7 @@
         "software": ["Maya", "Substance Painter", "Substance Designer", "Substance Share", "Unity", "Photoshop", "Marmoset Toolbag", "Zbrush"],
         "cover": "images/fisherman/fisherman.jpg",
         "link": "https://www.artstation.com/artwork/AqQRmz",
+        "embed": "<iframe width=\"640\" height=\"360\" src=\"https://www.artstation.com/embed/29971114\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" onmousewheel=\"\" scrolling=\"no\"> </iframe>",
         "media": ["images/fisherman/fisherman2.jpg","images/fisherman/fisherman.jpg","images/fisherman/fisherman4.jpg","images/fisherman/fisherman3.jpg"]
     },
     {

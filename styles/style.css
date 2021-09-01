@@ -319,6 +319,6 @@ header a {
   display: none;
 }
 
-.sketchfab-embed-wrapper {
+.sketchfab-embed-wrapper, .modal-embed {
   text-align: center;
 }
