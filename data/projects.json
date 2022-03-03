@@ -160,7 +160,7 @@
         "description":"The IMA line was a project done for a Thermofisher site at Ferentino, Italy. Its purpose is to train operators in the proper installation of this line. From photo reference and a Matteport scan, a digital twin of the real-life IMA Line was created. Using the HoloLens2 operators were immersed in an interactive and refreshing experience.Implementation was done in Unity. Deploy and programming were done using a third party tool.",
         "software": ["Maya", "Substance Painter", "Unity" , "Adobe Photoshop" , "Marmoset Toolbag"],
         "cover": "images/ferentino/f4.png",
-        "media": ["images/ferentino/f1.png", "images/ferentino/f2.png", "images/ferentino/f3.png","images/ferentino/f4.png","images/ferentino/f5.png", "images/ferentino/f6.png", "images/ferentino/f6.jpeg"],
+        "media": ["images/ferentino/f1.png", "images/ferentino/f2.png", "images/ferentino/f3.png","images/ferentino/f4.png","images/ferentino/f5.png", "images/ferentino/f6.png", "images/ferentino/f7.jpeg"],
         "embed": "<iframe width=\"640\" height=\"360\" src=\"https://www.artstation.com/embed/46911657\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" onmousewheel=\"\" scrolling=\"no\"> </iframe>"
     }
 ]
