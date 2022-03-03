@@ -151,7 +151,8 @@
         "description": "The iCELLis bioreactor system was a project developed for Thermofisher Scientific to train operators in the proper installation of the machine. From video and photo reference this digital twin was modeled and then deployed as a Mixed Reality application for the Hololens 2.",
         "software": ["Maya", "Substance Painter", "Unity" , "Adobe Photoshop" , "Marmoset Toolbag"],
         "cover": "images/icellis/icellis1.png",
-        "media": ["images/icellis/icellis1.png"]
+        "media": ["images/icellis/icellis1.png"],
+        "embed": "<iframe width=\"640\" height=\"360\" src=\"https://www.artstation.com/embed/46912266\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" onmousewheel=\"\" scrolling=\"no\"> </iframe>"
     },
     
     {
