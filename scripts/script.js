@@ -37,7 +37,7 @@
       document.getElementById('modal-overlay').classList.add('show');
       document.querySelector('#modal .modal-title').innerText = project.title;
       document.querySelector('#modal .modal-description').innerText = project.description;
-      document.querySelector('#modal .modal-embed').innerHTML = project.embed;
+      document.querySelector('#modal .modal-embed').innerHTML = project.embed ?? "";
 
       for(let media of project.media) {
         let mediaType = media.split("/")[0];

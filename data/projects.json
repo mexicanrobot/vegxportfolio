@@ -5,7 +5,9 @@
         "software": ["Maya","Arnold"],
         "cover": "images/sustainable/mundo.png",
         "link": "https://www.behance.net/gallery/58181999/Territorio-sustentable",
-        "media": ["images/sustainable/mundo.png"]
+        "media": ["images/sustainable/mundo.png"],
+        "embed": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Island\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"fullscreen; autoplay; vr\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/df0732c7f19a410596d795f3e034c5fb/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/island-df0732c7f19a410596d795f3e034c5fb?utm_medium=embed&utm_campaign=share-popup&utm_content=df0732c7f19a410596d795f3e034c5fb\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> Island </a> by <a href=\"https://sketchfab.com/delavegx?utm_medium=embed&utm_campaign=share-popup&utm_content=df0732c7f19a410596d795f3e034c5fb\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> delavegx </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=df0732c7f19a410596d795f3e034c5fb\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
+      
     },
     {
         "title": "Mayan Voxel Island",
@@ -13,7 +15,17 @@
         "software": ["Magica Voxel","Unity"],
         "cover": "images/voxel/voxel2.jpg",
         "link": "https://www.behance.net/gallery/64831865/Voxel-Island",
-        "media": ["images/voxel/voxel1.jpg","images/voxel/voxel2.jpg","images/voxel/voxel3.jpg"]
+        "media": ["images/voxel/voxel1.jpg","images/voxel/voxel2.jpg","images/voxel/voxel3.jpg"],
+        "embed": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"VOXEL ISLAND\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"fullscreen; autoplay; vr\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/b58603bbc607414aa71234d9a89c7b53/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/voxel-island-b58603bbc607414aa71234d9a89c7b53?utm_medium=embed&utm_campaign=share-popup&utm_content=b58603bbc607414aa71234d9a89c7b53\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> VOXEL ISLAND </a> by <a href=\"https://sketchfab.com/delavegx?utm_medium=embed&utm_campaign=share-popup&utm_content=b58603bbc607414aa71234d9a89c7b53\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> delavegx </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=b58603bbc607414aa71234d9a89c7b53\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
+      
+    },
+    {
+        "title": "Milagritos VR/AR Game",
+        "description": "Videogame app developed for PepsiCo in collaboration with Mexican Football Selection. The app had a shooting ball mini game. And augmented or virtual reality interactions with all the selection players. I worked as a 3D animator, implementing animations in the engine, cleaning mo-cap footage and optimization of the game ",
+        "software": ["Maya","Unity" ,"Mixamo", "MotionBuilder"],
+        "cover": "images/milagritos/coverM.jpeg",
+        "link": "https://www.youtube.com/watch?v=mfPaCxQM9JQ",
+        "media": ["images/milagritos/screen-0.jpeg", "images/milagritos/screen-1.jpeg", "images/milagritos/screen-2.jpeg", "images/milagritos/screen-3.jpeg", "images/milagritos/screen-4.jpeg", "images/milagritos/screen-5.jpeg", "videos/gameplay.mp4"]
     },
     {
         "title": "2018 Motion Graphics Demo Reel",
@@ -86,6 +98,7 @@
         "software": ["Maya", "Substance Painter", "Substance Designer"],
         "cover": "images/psg/psg1.jpg",
         "link": "https://www.artstation.com/artwork/oA0d0z",
+        "embed": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Continuous Manufacturing Project\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"fullscreen; autoplay; vr\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/52827904564f4ee7927b38a58f29e479/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/continuous-manufacturing-project-52827904564f4ee7927b38a58f29e479?utm_medium=embed&utm_campaign=share-popup&utm_content=52827904564f4ee7927b38a58f29e479\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> Continuous Manufacturing Project </a> by <a href=\"https://sketchfab.com/nanga?utm_medium=embed&utm_campaign=share-popup&utm_content=52827904564f4ee7927b38a58f29e479\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> Alejandro Nanga </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=52827904564f4ee7927b38a58f29e479\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>",
         "media": ["images/psg/psg1.jpg","images/psg/psg2.jpg","images/psg/psg3.jpg","images/psg/psg4.jpg","images/psg/psg5.jpg"]
     },
     {
@@ -94,7 +107,8 @@
         "software": ["Maya", "Substance Painter"],
         "cover": "images/crossbow/crossbow.jpg",
         "link": "https://www.artstation.com/artwork/Xngrmn",
-        "media": ["images/crossbow/crossbow.jpg","images/crossbow/crossbow2.jpg","images/crossbow/crossbow3.jpg","images/crossbow/crossbow4.jpg","images/crossbow/crossbow5.jpg"]
+        "media": ["images/crossbow/crossbow.jpg","images/crossbow/crossbow2.jpg","images/crossbow/crossbow3.jpg","images/crossbow/crossbow4.jpg","images/crossbow/crossbow5.jpg"],
+        "embed": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Sci Fi Crossbow\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"fullscreen; autoplay; vr\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/eba167b4d2a343dbac82cf549cf8ebfe/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/sci-fi-crossbow-eba167b4d2a343dbac82cf549cf8ebfe?utm_medium=embed&utm_campaign=share-popup&utm_content=eba167b4d2a343dbac82cf549cf8ebfe\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> Sci Fi Crossbow </a> by <a href=\"https://sketchfab.com/delavegx?utm_medium=embed&utm_campaign=share-popup&utm_content=eba167b4d2a343dbac82cf549cf8ebfe\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> delavegx </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=eba167b4d2a343dbac82cf549cf8ebfe\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
         "title": "Fisherman's Hut",
@@ -102,6 +116,7 @@
         "software": ["Maya", "Substance Painter", "Substance Designer", "Substance Share", "Unity", "Photoshop", "Marmoset Toolbag", "Zbrush"],
         "cover": "images/fisherman/fisherman.jpg",
         "link": "https://www.artstation.com/artwork/AqQRmz",
+        "embed": "<iframe width=\"640\" height=\"360\" src=\"https://www.artstation.com/embed/29971114\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" onmousewheel=\"\" scrolling=\"no\"> </iframe>",
         "media": ["images/fisherman/fisherman2.jpg","images/fisherman/fisherman.jpg","images/fisherman/fisherman4.jpg","images/fisherman/fisherman3.jpg"]
     },
     {
@@ -110,46 +125,16 @@
         "software": ["Maya", "Substance Painter", "Substance Designer", "Substance Share", "Unity", "Photoshop", "Marmoset Toolbag", "Zbrush"],
         "cover": "images/bakery/bakery.jpg",
         "link": "https://www.artstation.com/artwork/9mRwwR",
-        "media": ["images/bakery/bakery.jpg","images/bakery/bakery2.jpg","images/bakery/bakery3.jpg","images/bakery/bakery4.jpg","images/bakery/bakery5.jpg"]
+        "media": ["images/bakery/bakery.jpg","images/bakery/bakery2.jpg","images/bakery/bakery3.jpg","images/bakery/bakery4.jpg","images/bakery/bakery5.jpg"],
+        "embed": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Bakery Shop\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"fullscreen; autoplay; vr\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/13b15bddf324401690b5aa5a7bba6576/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/bakery-shop-13b15bddf324401690b5aa5a7bba6576?utm_medium=embed&utm_campaign=share-popup&utm_content=13b15bddf324401690b5aa5a7bba6576\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> Bakery Shop </a> by <a href=\"https://sketchfab.com/delavegx?utm_medium=embed&utm_campaign=share-popup&utm_content=13b15bddf324401690b5aa5a7bba6576\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> delavegx </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=13b15bddf324401690b5aa5a7bba6576\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
         "title": "Line 2 Washer HoloLens 2 Training",
-        "description": "Line 2 Washer Hololens 2 Training",
-        "software": ["Maya", "Substance Painter"],
+        "description": "From photo and manual reference, this digital twin of a Bosch Washer machine was modeled to be implemented in HoloLens2. Its purpose is to train operators in the proper installation of the Washer parts to be then applied to the real one. This project was done for Thermofisher Scientific Pharmaceutical division and in partnership with Altoura. Modeling and Texturing were done with my co-worker Alejandro Nanga",
+        "software": ["Maya", "Substance Painter", "Unity" , "Adobe Photoshop"],
         "cover": "images/washer/washer1.jpg",
+        "link": "https://www.youtube.com/watch?v=IR9NCdCjsxA&t=2s",
         "media": ["images/washer/washer1.jpg","images/washer/washer2.jpg","images/washer/washer3.jpg","images/washer/washer4.jpg","images/washer/washer5.jpg"],
         "embed": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Bosch Washer\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"fullscreen; autoplay; vr\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/ba26ad01db4c41979bb01d2d9ad55076/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/bosch-washer-ba26ad01db4c41979bb01d2d9ad55076?utm_medium=embed&utm_campaign=share-popup&utm_content=ba26ad01db4c41979bb01d2d9ad55076\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> Bosch Washer </a> by <a href=\"https://sketchfab.com/delavegx?utm_medium=embed&utm_campaign=share-popup&utm_content=ba26ad01db4c41979bb01d2d9ad55076\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> delavegx </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=ba26ad01db4c41979bb01d2d9ad55076\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
-    },
-    {
-        "title": "ReMix 3D",
-        "description": "\"ReMix3D\" is an ultra-exclusive virtual 3D exhibition celebrating the beauty and wonder of the Musée Collection des Arts, one of the largest private collections of the world's cultural heritage and the personal art collection of Monaco collectors, David & Mikhail Lakobachvili. \"ReMix3D\" is a prototype of a new permanent collection that will be located on the 21st floor of TheMall, a 100 million square foot virtual retail, entertainment and cultural destination in the Metaverse.",
-        "link": "https://engine.metavrse.com/view?i=7646",
-        "cover": "images/sony/sony.png",
-        "software": ["Maya","Substance Painter","Photoshop", "Crazy Bump", "Zbrush"],
-        "embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5ok_9awiFhs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HrhGeq8k7kg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-    },
-    {
-        "title": "Sony Pictures Experience",
-        "description": "A virtual 3D experience were Sony presents a interactive metavrse world were users can experience Sony entretaiment in a refreshing and innnovative experience.",
-        "software": ["Maya","Substance Painter","Photoshop", "Octane","Cinema 4D", "Zbrush"],
-        "cover": "images/sony/sony.png",
-        "embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rgeAKlc4G8k\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-        "media": ["images/sony/sony.png", "images/sony/sony2.png"]
-    },
-    {
-        "title": "Etihad Metaverse Experience",
-        "description": "An experience for the Etihad new recruiters. To train them in a refreshing and immersive experience to to comply with the highest standards of safety and service just as in their real life facilities at Dubai.",
-        "software": ["Maya","Substance Painter","Photoshop", "Octane","Cinema 4D", "Zbrush"],
-        "cover": "images/etihad/etihad3.PNG",
-        "embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/VisfeTvuaGY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-        "media": ["images/etihad/etihad1.PNG","images/etihad/etihad2.PNG","images/etihad/etihad3.PNG","images/etihad/etihad4.PNG"]
-    },
-    {
-        "title": "Emirates Crew Training",
-        "description": "An experience made to train flight attendants in tasks such as deploying the service cart and opening the cabin doors. In this demo the new trainees can experience an immersive 3D training that can help them with their path in the aviation college at Emirates.",
-        "software": ["Maya","Substance Painter","Photoshop", "Octane","Cinema 4D", "Zbrush"],
-        "cover": "images/emirates/emirates4.PNG",
-        "embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/w2gFkL6fxXM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-        "media": ["images/emirates/emirates1.PNG","images/emirates/emirates2.PNG","images/emirates/emirates3.PNG","images/emirates/emirates4.PNG"]
     }
 ]
