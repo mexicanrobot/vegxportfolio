@@ -141,7 +141,8 @@
         "title": "ReMix 3D",
         "description": "\"ReMix3D\" is an ultra-exclusive virtual 3D exhibition celebrating the beauty and wonder of the Musée Collection des Arts, one of the largest private collections of the world's cultural heritage and the personal art collection of Monaco collectors, David & Mikhail Lakobachvili. \"ReMix3D\" is a prototype of a new permanent collection that will be located on the 21st floor of TheMall, a 100 million square foot virtual retail, entertainment and cultural destination in the Metaverse.",
         "link": "https://engine.metavrse.com/view?i=7646",
-        "cover": "images/sony/sony.png",
+        "cover": "images/remix/remix3d.png",
+        "media": ["images/remix/remix3d.png"],
         "software": ["Maya","Substance Painter","Photoshop", "Crazy Bump", "Zbrush"],
         "embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5ok_9awiFhs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HrhGeq8k7kg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
     },
