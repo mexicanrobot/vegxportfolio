@@ -157,13 +157,13 @@ header a {
 }
 
 .about {
-  background-color: rgb(107, 107, 179);
   padding: 20px;
   display: flex;
   align-content: center;
   justify-content: center;
   align-items: center;
-  color: white;
+  color: black;
+  margin-top: 100px;
 }
 
 .headshot {
@@ -226,23 +226,31 @@ header a {
 }
 
 .contact-me {
-  font-family: 'icomoon';
-  font-size: 0px;
-  list-style: none;
-
-  display: flex;
-  width: 100%;
-  align-self: center;
-  justify-content: center;
-
   padding-top: 50px;
   padding-bottom: 50px;
 
+  margin-top: 50px;
   margin-bottom: 50px;
   background-color: rgb(107, 107, 179);
 }
 
+.contact-me div {
+  display: flex;
+  width: 100%;
+  align-self: center;
+  justify-content: center;
+}
+
+.contact-me h2 {
+  padding: 0;
+  margin: 0 !important;
+  color: white;
+}
+
 .contact-me a {
+  font-family: 'icomoon';
+  font-size: 0px;
+  list-style: none;
   text-decoration: none;
   display: inline-flex;
   padding: 12px;

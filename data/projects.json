@@ -136,5 +136,37 @@
         "link": "https://www.youtube.com/watch?v=IR9NCdCjsxA&t=2s",
         "media": ["images/washer/washer1.jpg","images/washer/washer2.jpg","images/washer/washer3.jpg","images/washer/washer4.jpg","images/washer/washer5.jpg"],
         "embed": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Bosch Washer\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"fullscreen; autoplay; vr\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/ba26ad01db4c41979bb01d2d9ad55076/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/bosch-washer-ba26ad01db4c41979bb01d2d9ad55076?utm_medium=embed&utm_campaign=share-popup&utm_content=ba26ad01db4c41979bb01d2d9ad55076\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> Bosch Washer </a> by <a href=\"https://sketchfab.com/delavegx?utm_medium=embed&utm_campaign=share-popup&utm_content=ba26ad01db4c41979bb01d2d9ad55076\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> delavegx </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=ba26ad01db4c41979bb01d2d9ad55076\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
+    },
+    {
+        "title": "ReMix 3D",
+        "description": "\"ReMix3D\" is an ultra-exclusive virtual 3D exhibition celebrating the beauty and wonder of the Musée Collection des Arts, one of the largest private collections of the world's cultural heritage and the personal art collection of Monaco collectors, David & Mikhail Lakobachvili. \"ReMix3D\" is a prototype of a new permanent collection that will be located on the 21st floor of TheMall, a 100 million square foot virtual retail, entertainment and cultural destination in the Metaverse.",
+        "link": "https://engine.metavrse.com/view?i=7646",
+        "cover": "images/sony/sony.png",
+        "software": ["Maya","Substance Painter","Photoshop", "Crazy Bump", "Zbrush"],
+        "embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5ok_9awiFhs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HrhGeq8k7kg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    {
+        "title": "Sony Pictures Experience",
+        "description": "A virtual 3D experience were Sony presents a interactive metavrse world were users can experience Sony entretaiment in a refreshing and innnovative experience.",
+        "software": ["Maya","Substance Painter","Photoshop", "Octane","Cinema 4D", "Zbrush"],
+        "cover": "images/sony/sony.png",
+        "embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rgeAKlc4G8k\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "media": ["images/sony/sony.png", "images/sony/sony2.png"]
+    },
+    {
+        "title": "Etihad Metaverse Experience",
+        "description": "An experience for the Etihad new recruiters. To train them in a refreshing and immersive experience to to comply with the highest standards of safety and service just as in their real life facilities at Dubai.",
+        "software": ["Maya","Substance Painter","Photoshop", "Octane","Cinema 4D", "Zbrush"],
+        "cover": "images/etihad/etihad3.PNG",
+        "embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/VisfeTvuaGY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "media": ["images/etihad/etihad1.PNG","images/etihad/etihad2.PNG","images/etihad/etihad3.PNG","images/etihad/etihad4.PNG"]
+    },
+    {
+        "title": "Emirates Crew Training",
+        "description": "An experience made to train flight attendants in tasks such as deploying the service cart and opening the cabin doors. In this demo the new trainees can experience an immersive 3D training that can help them with their path in the aviation college at Emirates.",
+        "software": ["Maya","Substance Painter","Photoshop", "Octane","Cinema 4D", "Zbrush"],
+        "cover": "images/emirates/emirates4.PNG",
+        "embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/w2gFkL6fxXM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "media": ["images/emirates/emirates1.PNG","images/emirates/emirates2.PNG","images/emirates/emirates3.PNG","images/emirates/emirates4.PNG"]
     }
 ]
