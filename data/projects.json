@@ -129,6 +129,14 @@
         "embed": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Bakery Shop\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"fullscreen; autoplay; vr\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/13b15bddf324401690b5aa5a7bba6576/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/bakery-shop-13b15bddf324401690b5aa5a7bba6576?utm_medium=embed&utm_campaign=share-popup&utm_content=13b15bddf324401690b5aa5a7bba6576\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> Bakery Shop </a> by <a href=\"https://sketchfab.com/delavegx?utm_medium=embed&utm_campaign=share-popup&utm_content=13b15bddf324401690b5aa5a7bba6576\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\"> delavegx </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=13b15bddf324401690b5aa5a7bba6576\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
+        "title": "Another Crusade: Hunter's Settlement",
+        "description": "Another Crusade is an RPG inspired by old classics. Developed by indie mexican company Dragon Vein Studios. This project started as a Kickstarter, and it was a complete success. The game would be deployed on various platforms in 2022. I participated as a 3D Artist for the level Hunter's Settlement. It is a level filled with Asian-style architecture. The concept art was provided by the studio and I was in charge of modeling, UV mapping, and texturing the whole scene to match the game art. (hand painted).",
+        "software": ["Maya", "Substance Painter", "Unity" , "Adobe Photoshop"],
+        "cover": "images/anothercrusade/escenario1.png",
+        "link": "https://dragonveinstudios.net/",
+        "media": ["images/anothercrusade/escenario1.png", "images/anothercrusade/gameplay1.gif","images/anothercrusade/River.gif","videos/gameplayvideo.mp4", "videos/anothercrusade/gameplay2.mp4"]
+    }
+    {
         "title": "Line 2 Washer HoloLens 2 Training",
         "description": "From photo and manual reference, this digital twin of a Bosch Washer machine was modeled to be implemented in HoloLens2. Its purpose is to train operators in the proper installation of the Washer parts to be then applied to the real one. This project was done for Thermofisher Scientific Pharmaceutical division and in partnership with Altoura. Modeling and Texturing were done with my co-worker Alejandro Nanga",
         "software": ["Maya", "Substance Painter", "Unity" , "Adobe Photoshop"],
