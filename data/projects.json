@@ -135,7 +135,7 @@
         "cover": "images/anothercrusade/escenario1.png",
         "link": "https://dragonveinstudios.net/",
         "media": ["images/anothercrusade/escenario1.png", "images/anothercrusade/gameplay1.gif","images/anothercrusade/River.gif","videos/gameplayvideo.mp4", "videos/anothercrusade/gameplay2.mp4"]
-    }
+    },
     {
         "title": "Line 2 Washer HoloLens 2 Training",
         "description": "From photo and manual reference, this digital twin of a Bosch Washer machine was modeled to be implemented in HoloLens2. Its purpose is to train operators in the proper installation of the Washer parts to be then applied to the real one. This project was done for Thermofisher Scientific Pharmaceutical division and in partnership with Altoura. Modeling and Texturing were done with my co-worker Alejandro Nanga",
